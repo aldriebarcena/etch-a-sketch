@@ -1,5 +1,8 @@
 #grid-container {
     width: 500px;
     height: 500px;
-    display: grid
+    display: grid;
+    column-gap: 1px;
+    row-gap: 1px;
 }
+
